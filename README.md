@@ -2,4 +2,4 @@
 
 Aulas Fiap de Web Dev
 
-Realizando exercios da apostila
+Realizando exercicios da apostila
